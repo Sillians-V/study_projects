@@ -1,2 +1,2 @@
-# study_projects
-Study projects 
+# Portfolio
+Здесь собраны некоторые реализованные проекты 
